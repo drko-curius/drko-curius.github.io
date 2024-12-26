@@ -21,14 +21,14 @@ repository               : "drko-curius/drko-curius.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-avatar           : "profile.png"
-name             : "Khadija Ouajjani"
-pronouns         : # example: "she/her"
-bio              : "Intersectional scientist, a human of the Times"
-location         : "Earth"
-employer         : "AVET Labs"
-uri              : # URL
-email            : "firstnamelastnamelatestdegree_at_proton_dot_me" 
+  avatar           : "profile.png"
+  name             : "Khadija Ouajjani"
+  pronouns         : # example: "she/her"
+  bio              : "Intersectional scientist, a human of the Times"
+  location         : "Earth"
+  employer         : "AVET Labs"
+  uri              : # URL
+  email            : "firstnamelastnamelatestdegree_at_proton_dot_me" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
