@@ -321,3 +321,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+    {% for field in site.author %}
+  <p>{{ field[0] }}: {{ field[1] }}</p>
+{% endfor %}
+
