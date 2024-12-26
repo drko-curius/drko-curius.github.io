@@ -12,8 +12,8 @@ title                    : "A Chimeric Researcher Atelier"
 title_separator          : "-"
 name                     : &name "Khadija Ouajjani"
 description              : &description "Intersectional scientist within the aircraft crashworthiness field, currently at the nexus of machine learning, multiscale modeling and certification by analysis"
-url                      : https://drko-curius.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://drko-curius.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "drko-curius/drko-curius.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -43,7 +43,7 @@ author:
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
   thestorygraph    : "exupere"
-  instagram        : "soon-ish
+  instagram        : "soon-ish"
   linkedin         : "khadijaouajjani"
 
 # Publication Category - The following the list of publication categories and their headings
