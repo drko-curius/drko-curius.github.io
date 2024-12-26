@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Atelier of a Chimeric Researcher"
+title                    : "A Chimeric Researcher Atelier"
 title_separator          : "-"
 name                     : &name "Khadija Ouajjani"
 description              : &description "Intersectional scientist within the aircraft crashworthiness field, currently at the nexus of machine learning, multiscale modeling and certification by analysis"
