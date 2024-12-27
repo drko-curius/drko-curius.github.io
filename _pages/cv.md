@@ -11,27 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Aerospace Engineering, Wichita State University, U.S.A. 2024
+* Ph.D. in Aerospace Engineering, Wichita State University, U.S.A. 2024
 * M.Sc. in Aerospace Engineering, Wichita State University, U.S.A. 2018
 * M.Eng. in Mechanical Engineering, ENSEM of Casablanca, Morocco 2012
 
 Work experience
 ======
-* December 2024: Postdoctoral Scientist
+* December 2024: Postdoctoral Scientist (U.S.A.)
   * Advanced Virtual Engineering and Testing Lab of NIAR
 
-* August 2018 - December 2024: Doctoral Researcher
+* August 2018 - December 2024: Doctoral Researcher (U.S.A.)
   * Advanced Virtual Engineering and Testing Lab of NIAR
   * Computational Mechanics Department of NIAR
 
-* September 2017 - May 2018: Graduate Research Assistant
+* September 2017 - May 2018: Graduate Research Assistant (U.S.A.)
   * Computational Mechanics Department of NIAR
   * Aerospace Engineering Department of Wichita State University
 
-* January 2014 - July 2016: Aeronautics and Structural Analysis Engineer
+* January 2014 - July 2016: Aeronautics and Structural Analysis Engineer (Morocco, Germany, France)
   * Safran Group
 
-  
+ * March 2013 - December 2013: Structural Analysis Engineer (Morocco, Canada)
+  * NTS Maghreb
+
+ * July 2012 - February 2013: Project Engineer (India, Taiwan, Germany)
+  * Aditya Auto
+
 Skills
 ======
 * CAD/FEA packages:
@@ -74,12 +79,6 @@ Skills
 * Certifications:
   * Qubit by Qubit for quantum computing from the Coding School
   * PLM Enovia certification from Dassault Systemes
-    
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Extended CV
 ======
