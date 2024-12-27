@@ -13,7 +13,6 @@ title_separator          : "-"
 name                     : "Khadija Ouajjani"
 description              : "Intersectional scientist amongst other labels"
 url                      : "https://drko-curius.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "drko-curius/drko-curius.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -27,19 +26,12 @@ author:
   bio              : "Intersectional scientist for aicraft crashworthiness, at the nexus of several disciplines"
   location         : "Earth"
   employer         : "AVET Labs"
-  uri              : # URL
   email            : "firstnamelastnamelatestdegree_at_proton_dot_me" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=O8TdkjcAAAAJ&hl=en"
   orcid            : "https://orcid.org/0000-0003-1697-8698"
   researchgate     : "https://www.researchgate.net/profile/Khadija-Ouajjani"
-  arxiv            : # URL - Update with the correct link to your profile
-  impactstory      : # URL
-  semantic         : # URL
-  pubmed           :  #URL
-  scopus           : # URL
 
   # Repositories and software development
   github           : "drko-curius"
@@ -61,8 +53,8 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : #false # true, false (default)
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
