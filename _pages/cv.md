@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+======
+======
 Education
 ======
 * Ph.D in Aerospace Engineering, Wichita State University, U.S.A. 2024
