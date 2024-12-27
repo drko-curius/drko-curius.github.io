@@ -22,9 +22,7 @@ In 2016, after earning a [Fulbright scholarship](https://us.fulbrightonline.org/
 
 Throughout my PhD, I benefitted from AVET's full funding and the co-advising and mentorship of [Dr. Olivares](https://www.researchgate.net/profile/Gerardo-Olivares-6), on top of the full support of my main advisor [Dr. James E. Steck](https://www.researchgate.net/profile/James-Steck). The latter's involvement in machine learning and quantum computing inspired me to actively learn about AI, see its benefits for numerical models and incorporate it in our research and in aerospace technologies advancement. I also successfully pursued a minor in quantum mechanics by the dynamite [Dr. Elizabeth Behrman](https://www.researchgate.net/profile/Elizabeth-Behrman), who has been my first nonfictional inspirational scientist idol (Rest in peace, [Dr. Isakov](https://www.researchgate.net/profile/Victor-Isakov). You were another one as well).
 
-I earned my PhD in aerospace engineering from Wichita State University in Fall 2024.
-
-I write. I read. I go on walks with dogs. I assemble furniture. I play videogames. I acquire new languages. I meet new people.
+I write. I read. I mentor. I go on walks with dogs. I assemble furniture. I play videogames. I acquire new languages. I meet new people. I discover local live music holes (Check out [Kirby's](https://kirbysbeerstore.com/) if you are in Kansas). I use coffee shops, inclusve divebars and cheap terraces as study/reading/writing spots.
 
 Most importantly, I am always at the cusp of being a challenged apprentice uncovering new territory, and a seasoned practitioner deepening trodden paths.
 
