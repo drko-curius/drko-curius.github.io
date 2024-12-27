@@ -11,36 +11,70 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Aerospace Engineering, Wichita State University, U.S.A. 2024
+* M.Sc. in Aerospace Engineering, Wichita State University, U.S.A. 2018
+* M.Eng. in Mechanical Engineering, ENSEM of Casablanca, Morocco 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* December 2024: Postdoctoral Scientist
+  * Advanced Virtual Engineering and Testing Lab of NIAR
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2018 - December 2024: Doctoral Researcher
+  * Advanced Virtual Engineering and Testing Lab of NIAR
+  * Computational Mechanics Department of NIAR
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2017 - May 2018: Graduate Research Assistant
+  * Computational Mechanics Department of NIAR
+  * Aerospace Engineering Department of Wichita State University
+
+* January 2014 - July 2016: Aeronautics and Structural Analysis Engineer
+  * Safran Group
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* CAD/FEA packages:
+  * CATIA V5
+  * ANSYS
+  * ANSA
+  * ABAQUS
+  * COMSOL
+  * Primer
+  * Patran
+  * Nastran
+  * Matlab
+    
+* Solvers:
+  * Samcef
+  * LS-DYNA
+  * Abaqus
+  * Nastran
+    
+* Programming:
+   * Python (Pandas, NumPy, Tensorflow, Keras, CV, SQLAlchemy)
+   * Matlab
+   * Git, Github
+   * GPU's
+   * Conda, pip, VS Code, Spyder
+      
+* Quantum programming:
+    * IBM quantum gate computer
+    * Qubit algorithms
+    * Microsoft Topological quantum computer
 
+* Languages
+  * Native Arabic
+  * Fluent French
+  * Fluent English
+  * Full professional proeficiency in German
+  * Intermediate Spanish
+  * Beginner Japanese 
+  
+* Certifications
+  * Qubit by Qubit for quantum computing from the Coding School
+  * PLM Enovia certification from Dassault Systemes
+    
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
