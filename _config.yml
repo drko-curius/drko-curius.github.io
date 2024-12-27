@@ -19,6 +19,11 @@ repository               : "drko-curius/drko-curius.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
+  name: Khadija Ouajjani
+  email: firstnamelastnamelatestdegree_at_proton_dot_me
+  links:
+    - https://github.com/drko-curius
+    - https://linkedin.com/in/khadijaouajjani
   # Biographic information
   avatar           : "profile.png"
   name             : "Khadija Ouajjani"
@@ -262,6 +267,7 @@ timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # Plugins
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
