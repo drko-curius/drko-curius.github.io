@@ -83,4 +83,4 @@ Publications
 
 Extended CV
 ======
-For more details, refer to [the extended version of the CV](/files/KO_CV_Extended.pdf)
+For more details, refer to [the extended version of the CV](/KO_CV_Extended.pdf)
