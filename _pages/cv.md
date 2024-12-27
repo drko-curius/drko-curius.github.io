@@ -31,10 +31,10 @@ Work experience
 * January 2014 - July 2016: Aeronautics and Structural Analysis Engineer (Morocco, Germany, France)
   * Safran Group
 
- * March 2013 - December 2013: Structural Analysis Engineer (Morocco, Canada)
+* March 2013 - December 2013: Structural Analysis Engineer (Morocco, Canada)
   * NTS Maghreb
 
- * July 2012 - February 2013: Project Engineer (India, Taiwan, Germany)
+* July 2012 - February 2013: Project Engineer (India, Taiwan, Germany)
   * Aditya Auto
 
 Skills
