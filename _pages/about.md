@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+
 Greetings folks,
 
 I go by K.
 
-I am currently a postodoctal scientist at the Jerry Moran Center for Advanced Virtual Engineering & Testing lab, which is part of the National Institute for Aviation Research - NIAR - in Wichita, KS. I essentially conduct research within the scope of aircraft crashworthiness, certification by analysis, simulation and data-driven models, while still providing the fundamental scholarly leg work on other projects, and collaborating with the aerospace engineering department on students' preparation for the workforce.
+I am currently a postodoctoral scientist at the Jerry Moran Center for Advanced Virtual Engineering & Testing lab, which is part of the National Institute for Aviation Research - NIAR - in Wichita, KS. I essentially conduct research within the scope of aircraft crashworthiness, certification by analysis, simulation and data-driven models, while still providing the fundamental scholarly leg work on other projects, and collaborating with the aerospace engineering department on students' preparation for the workforce.
 
 My previous work experience involved simulation, analysis and certification work for different international companies in aircraft and automotive industries, both as an R&D engineer or as a subcontractor.
 
