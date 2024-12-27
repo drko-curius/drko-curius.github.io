@@ -84,3 +84,12 @@ Publications
 Extended CV
 ======
 For more details, refer to [the extended version of the CV](/KO_CV_Extended.pdf)
+
+<iframe src="https://drko-curius.github.io/KO_CV_Extended.pdf" width="100%" height="600px">
+    Your browser does not support the iframe element.
+</iframe>
+
+Alternatively
+
+<embed src="https://drko-curius.github.io/KO_CV_Extended.pdf" width="100%" height="600px" type="application/pdf">
+
