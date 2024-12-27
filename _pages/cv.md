@@ -63,7 +63,7 @@ Skills
     * Qubit algorithms
     * Microsoft Topological quantum computer
 
-* Languages
+* Languages:
   * Native Arabic
   * Fluent French
   * Fluent English
@@ -71,7 +71,7 @@ Skills
   * Intermediate Spanish
   * Beginner Japanese 
   
-* Certifications
+* Certifications:
   * Qubit by Qubit for quantum computing from the Coding School
   * PLM Enovia certification from Dassault Systemes
     
@@ -80,19 +80,7 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Extended CV
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+For more details, refer to the extended version of the CV
