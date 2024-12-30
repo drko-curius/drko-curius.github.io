@@ -12,7 +12,7 @@ Greetings folks,
 
 I go by K.
 
-I am currently a postdoctoral scientist at [the Jerry Moran Center for Advanced Virtual Engineering & Testing lab](https://www.wichita.edu/industry_and_defense/NIAR/Laboratories/avet/avet.php), part of [the National Institute for Aviation Research](https://www.wichita.edu/industry_and_defense/NIAR/) - NIAR - in Wichita, KS. My work focuses on aircraft crashworthiness, certification by analysis, simulation, and data-driven models. I also contribute foundational research to various projects and collaborate with the aerospace engineering department to prepare students for the workforce.
+I am currently a postdoctoral scientist at [the Jerry Moran Center for Advanced Virtual Engineering & Testing lab](https://www.wichita.edu/industry_and_defense/NIAR/Laboratories/avet/avet.php), part of [the National Institute for Aviation Research](https://www.wichita.edu/industry_and_defense/NIAR/) - NIAR - in Wichita, KS. My research focuses on aircraft crashworthiness, certification by analysis, simulation, and data-driven models. I also contribute foundational research to various projects and collaborate with the aerospace engineering department to prepare students for the workforce.
 
 My career journey spans over a decade in international R&D and engineering roles within the aerospace and automotive industries. I have worked on simulation, analysis, and certification projects as both an R&D engineer and a subcontractor. For a detailed overview of my professional background, feel free to explore [my cv](https://drko-curius.github.io/cv/) or visit my [LinkedIn page](https://www.linkedin.com/in/khadijaouajjani/).
 
