@@ -82,7 +82,7 @@ Skills
 
 Extended CV
 ======
-For more details, refer to [the extended version of the CV](/KO_CV_Extended.pdf)
+For more details, refer to [the extended version of the CV](/OL_KO_EN_CV_Extended_Academic.pdf)
 
 <embed src="https://drko-curius.github.io/KO_CV_Extended.pdf" width="100%" height="600px" type="application/pdf">
 
