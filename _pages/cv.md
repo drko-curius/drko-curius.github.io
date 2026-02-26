@@ -84,5 +84,5 @@ Extended CV
 ======
 For more details, refer to [the extended version of the CV](/OL_KO_EN_CV_Extended_Academic.pdf)
 
-<embed src="https://drko-curius.github.io/KO_CV_Extended.pdf" width="100%" height="600px" type="application/pdf">
+<embed src="https://drko-curius.github.io/OL_KO_EN_CV_Extended_Academic.pdf" width="100%" height="600px" type="application/pdf">
 
