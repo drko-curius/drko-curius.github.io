@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Intersectional scientist, currently within the aircraft crashworthiness field"
   location         : "Earth"
-  employer         : "AVET Lab"
+  #employer         : "AVET Lab"
   uri              : # URL
   email            : "1stnamelastnamelatestdegreeatprotondotme" 
 
