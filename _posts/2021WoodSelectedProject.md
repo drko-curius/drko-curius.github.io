@@ -23,7 +23,7 @@ tags:
 
 ## Scope
 
-<div style="text-align: justify;">On April 10, 2010, a Polish Air Force Tupolev Tu-154M (registration 101) crashed near Smolensk North Airport in Russia, killing all 96 people on board. The official investigation, summarized in [the MAK report](https://upload.wikimedia.org/wikipedia/commons/4/4e/Final_Report_Tu-154M_tail_number_101%2C_Republic_of_Poland.pdf) , attributed the accident to pilot error under conditions of severely reduced visibility during approach. <br/>
+<div style="text-align: justify;">On April 10, 2010, a Polish Air Force Tupolev Tu-154M (registration 101) crashed near Smolensk North Airport in Russia, killing all 96 people on board. The official investigation, summarized in <url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Final_Report_Tu-154M_tail_number_101%2C_Republic_of_Poland.pdf">the MAK report</url> , attributed the accident to pilot error under conditions of severely reduced visibility during approach. <br/>
 NIAR was subsequently contracted to conduct an independent numerical analysis of the accident, with two specific objectives: first, to evaluate the structural damage predicted by a finite element model of the Tu-154M against the damage documented in the MAK report; and second, to assess the survivability conditions of each occupant by comparing the injury outcomes derived from the simulation against the known injuries reported in the investigation record.r.
 
 </div>
