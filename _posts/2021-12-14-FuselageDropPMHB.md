@@ -1,5 +1,5 @@
 ---
-title: 'Full Scale Fuselage Drop Test with ATDs and PMHBs'
+title: 'Full Scale Fuselage Drop Test with ATDs and PMHSs'
 date: 2021-12-15
 permalink: /posts/2021/01/FuselageDropPMHB/
 tags:
@@ -8,7 +8,7 @@ tags:
   - DIC
   - LS-Dyna
   - Testing
-  - PMHB
+  - PMHS
   - ATD Hybrid III 50th Percentile
   - 
 ---
@@ -16,7 +16,7 @@ tags:
 ---
 **Contracting Organization**: Federal Aviation Administration  
 
-**Domain**: Drop Test/ Fuselage/ ATDs/ PMHB    
+**Domain**: Drop Test/ Fuselage/ ATDs/ PMHS
 
 **Tools**: Drop Apparatus, Digital Image Correlation (DIC), DAQ, ATDs
 
@@ -44,7 +44,7 @@ Working in close proximity to cadavers was at turns awe-inducing and disorientin
 Through daily calibration routines and sustained conversations with Jonathan, a picture of the gap between what the PMHS data was capturing and what the ATDs could actually represent began to take shape. His methodical precision and deep understanding of every sensor, every tolerance, and every procedural boundary made those exchanges genuinely instructive, and the questions they raised about how PMHS-derived datasets could drive improvements in both ATD modeling and fabrication remain as consequential as the test data itself. <br/>
 
 
-We joked, but not really, that even the regulatory standard for the male ATD does not reflect the average data of the male population as of now, age or health wise. And while testing remains expensive, and PMHB procuration does not guarantee finding average measurements reflecting of the intricacies of the humans of today, this is yet another arguent for certification-by-analysis, and the importance of augmenting simulation capabilities and incorporating them to the certification lifecycle: Libraries of accurate human body models and investigations of crash related simulations involving them would bridge some of the gap that sole physical testing doesn't get right, and allow to dimension better for a more inclusive scope of humans. That's why projects such as the <a href="https://pubmed.ncbi.nlm.nih.gov/38780890/">I Predict</a> (SwRI has an excellent <a href="https://www.swri.org/newsroom/technology-today/enhancing-the-human-experience">introduction</a> to the full concept) are crucial step towards the right direction, and deserve keen attention and serious funding, that's why body donation is priceless in the way it would inform the next generation of inclusive regulations.
+We joked, but not really, that even the regulatory standard for the male ATD does not reflect the average data of the male population as of now, age or health wise. And while testing remains expensive, and PMHS procuration does not guarantee finding average measurements reflecting of the intricacies of the humans of today, this is yet another arguent for certification-by-analysis, and the importance of augmenting simulation capabilities and incorporating them to the certification lifecycle: Libraries of accurate human body models and investigations of crash related simulations involving them would bridge some of the gap that sole physical testing doesn't get right, and allow to dimension better for a more inclusive scope of humans. That's why projects such as the <a href="https://pubmed.ncbi.nlm.nih.gov/38780890/">I Predict</a> (SwRI has an excellent <a href="https://www.swri.org/newsroom/technology-today/enhancing-the-human-experience">introduction</a> to the full concept) are crucial step towards the right direction, and deserve keen attention and serious funding, that's why body donation is priceless in the way it would inform the next generation of inclusive regulations.
 
 </div>
 
