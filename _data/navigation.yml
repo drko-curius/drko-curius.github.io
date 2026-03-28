@@ -11,8 +11,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Books"
-    url: /books/    
 
  # - title: "Teaching"
  #   url: /teaching/    
@@ -22,6 +20,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Books Reviews"
+    url: /books/    
     
  # - title: "Guide"
  #   url: /markdown/
