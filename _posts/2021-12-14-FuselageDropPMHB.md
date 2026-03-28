@@ -1,44 +1,63 @@
 ---
-title: 'Effect of Disinfectants on Cabin Interior Materials'
-date: 2021-01-15
-permalink: /posts/2021/01/WoodSelectedProject/
+title: 'Full Scale Fuselage Drop Test with ATDs and PMHBs'
+date: 2021-12-15
+permalink: /posts/2021/01/FuselageDropPMHB/
 tags:
-  - COVID-19
+  - Drop Test
   - Simulation
   - DIC
   - LS-Dyna
   - Testing
-  - Material Characterization
-  - Honeycomb Core
-  - Fabric
+  - PMHB
+  - ATD Hybrid III 50th Percentile
+  - 
 ---
 
 ---
 **Contracting Organization**: Federal Aviation Administration  
 
-**Domain**: Aircraft cabins/ Disinfectants/ Flammability/ Material Characterization   
+**Domain**: Drop Test/ Fuselage/    
 
-**Tools**: MTS testing machine, Digital Image Correlation (DIC), Altair Hypermesh, LS-DYNA  
+**Tools**: Drop Apparatus, Digital Image Correlation (DIC), DAQ, Altair Hypermesh, LS-DYNA  
 
 
 ## Scope
 
 <div style="text-align: justify;">
-As a result of the coronavirus disease 2019 (COVID-19) public health emergency, the airline industry had implemented additional measures to disinfect aircraft interiors. This involved frequent use of disinfectant products on aircraft cabin and seating materials. In this paper, the long-term effects of exposing honeycomb sandwich panels to disinfectant products are presented. The disinfectant methods considered for this study are chemical and ultraviolet-c germicidal irradiation. Five different chemical disinfectants commonly used in the airline industry and three different ultraviolet-c wavelength configurations were selected. Accelerated aging tests with various disinfectant configurations were conducted on honeycomb sandwich specimens and the subsequent effects on mechanical and physical performance are investigated.
+
+
+As part of an ongoing fifteen-year research program on the Crashworthiness Certification of Composite and Metallic Aircraft Structures, a drop test was conducted at the new AVET facilities with the support of the Injury Biomechanics Research Center of Ohio State University. The OSU team provided their support and expertise with the three PMHS passengers.  <br/>
+
+The test carried four concurrent objectives: to verify and validate the finite element modeling techniques underpinning virtual crashworthiness certification of future aircraft programs; to collect injury data from the seated PMHS occupants and compare their biomechanical response against FAA Hybrid III 50th percentile ATDs; to generate datasets for the verification and validation of finite element human body models intended for injury prediction; and to characterize the injury potential for an occupant in a supine position on a medical stretcher, directly supporting the human body modeling activities of the Office of Naval Research I-Predict program.  <br/>
+
 </div>
+
 
 ## Task
 
-<div style="text-align: justify;">COVID-19 hit bad. I'm more of an outside chimera than an indoor cat, and have grown up doing homework and projects and reading and writing at cafes in Morocco. Having to be inside my apartment for homework is torture in my head. The only thing that was getting me through quantum relativisitc mechanics homework was the continuous coffee from the iHOP waiter and the lively chatter once-in-a-while inside the iHOP (or the Dennys).
-  So when we were deemed essential workers and were tasked to work on the COVID-19 relaed project, I rejoiced at the prospect. I know it's not the popular opinion and I loathe commuting but I abhorr working from home even more. Plenty of undergrade research assistants helped with the boring if not straight sysiphean portions of the project, and the testing presented some alarming findings that prompted me to make the journey by car from Wichita to NYC (for paperwork). COVID-19 was a strange blur in my head where I remember sniffing a lot of desinfectant, polymers, silicone and dread. But it also provided one of those crystal clear moments where a regulatory body commissions a question that needs an answer and is of immediate interest and grasp to a larger audience: Given COVID-19 and the measures it generated, and given the dry environment inside an aircraft cabine, would the constant wiping with strong disinfectant raise flammability concerns or drastic changes of mechanical properties in the airplane interior?
-  Those might not be the most glamorous questions, and the investigation could be as pedantic as it could be monotonous, but the necessity of an answer has been real
-   <br/>
+<div style="text-align: justify;">I don't remember the last time I was so excited to come to work that I would be there very early in the morning (except during a LEAP engine certification program at Safran, which was my first time participating in a certification process). I was consistently arriving at work before 5:30 a.m. and still finding colleagues already on site. Between DIC setup under challenging lighting conditions and ATD preparation, I managed to shadow the OSU biomechanics team and gain firsthand exposure to their sensor placement philosophy, their handling protocols for the PMHS occupants, and their calibration and data acquisition procedures. <br/>
+
+The person who shaped my understanding of the instrumentation side most directly was Jonathan Conklin, who headed AVET's calibration lab at the time and held full responsibility for the ATDs from pre-test calibration through post-test teardown and maintenance. Data acquisition was, as it should be, treated as a critical and fragile component of the entire effort, and the collective frustration on site when R&D personnel unfamiliar with its requirements would walk over wiring or mishandle DAQ equipment was considerable and entirely justified. <br/>
+
+Working in close proximity to cadavers was at turns awe-inducing and disorienting, in the way that any sustained encounter with the fundamental materiality of the human body tends to be. What proved equally striking, and what has stayed with me longer, was the parallel immersion in the state of ATD technology and the extent of its limitations. The regulatory standard for aviation emergency landing testing remains a male dummy whose design is rooted in decades-old anthropometric data. The existing female ATD is not derived from female anatomical data at all, but is a geometrically scaled-down version of the male model, carrying none of the physiologically distinct properties of female musculature, spinal geometry, bone density, or injury response. A true 50th percentile female ATD does not exist in regulatory use, and the injury data bears that out in ways that are neither subtle nor acceptable. <br/>
+
+Through daily calibration routines and sustained conversations with Jonathan, a picture of the gap between what the PMHS data was capturing and what the ATDs could actually represent began to take shape. His methodical precision and deep understanding of every sensor, every tolerance, and every procedural boundary made those exchanges genuinely instructive, and the questions they raised about how PMHS-derived datasets could drive improvements in both ATD modeling and fabrication remain as consequential as the test data itself. <br/>
+
+</div>
+
+## Nota Bene: ATDs
+
+The <a href="https://www.humaneticsgroup.com/products/anthropomorphic-test-devices/frontal-impact/hybrid-iii-50th-male/hybrid-iii-50th-male">FAA Hybrid III 50th percentile male ATD</a>, which remains the regulatory standard for aviation emergency landing testing, is a derivative of a design <a href="https://www.tandfonline.com/doi/full/10.1080/23311916.2022.2105558">developed based on U.S. anthropometric data from 1976</a>, codified in federal regulation with drawing packages <a href="https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-572">dated as late as 1998</a>. The existing female ATD, a 5th percentile figure introduced in 1966, is not derived from female anatomical data but is instead a scaled-down version of the male model, carrying none of the physiologically distinct properties of female musculature, spinal alignment, bone density, or injury response. <a href="https://genderedinnovations.stanford.edu/case-studies/crash.html">A true 50th percentile female ATD does not exist.</a> The consequences are measurable: <a href="https://www.consumerreports.org/car-safety/crash-test-bias-how-male-focused-testing-puts-female-drivers-at-risk/">a 2019 University of Virginia study found that women are 73% more likely to be injured in a frontal crash than men</a>, controlling for age, height, BMI, crash severity, and vehicle model year, and <a href="https://www.legalexaminer.com/whitley/transportation/new-attention-on-gender-gaps-in-crash-safety-why-female-drivers-remain-at-higher-risk/">NHTSA data indicates women sustain roughly 80% more injuries to the neck, chest, and pelvis.</a> The <a href="https://www.nhtsa.gov/sites/nhtsa.gov/files/2024-04/NHTSA-Advanced-Anthropomorphic-Test-Devices-Development-Implementation-041624-v1-tag.pdf">THOR-50M</a>, NHTSA's next-generation male ATD with improved biofidelity and expanded instrumentation, has been under development since 2009 and as of 2024 remains in regulatory validation. An equivalent female THOR is not yet on a confirmed regulatory timeline. <br/>
+Please note that even the regulatory standard for the male ATD doesn't reflect the average data of the male population as of now, age or health wise.
+
 
 </div>   
 
 ## Learn more
 
-- [Effect of Disinfectants on Cabin Interior Materials'](https://doi.org/10.2514/6.2023-2595)
+- [Video of the Drop Test](https://www.youtube.com/watch?v=CwaLsrH319g)
+- [Media Release on the Test'](https://www.linkedin.com/pulse/niar-full-scale-fuselage-drop-test-gerardo-olivares)
+- [Previous Drop Test](https://www.wichita.edu/industry_and_defense/NIAR/Documents/jams-presentations/22-Olivares-Certification-by-Analysis.pdf)
 
 
 
