@@ -28,7 +28,7 @@ Work experience
   * Computational Mechanics Department of NIAR
   * Aerospace Engineering Department of Wichita State University
 
-* January 2014 - July 2016: Aeronautics and Structural Analysis Engineer (Morocco, Germany, France)
+* January 2014 - July 2016: Aeronautics and Structural Analysis Engineer (Morocco, France)
   * Safran Group
 
 * March 2013 - December 2013: Structural Analysis Engineer (Morocco, Canada)
