@@ -49,7 +49,7 @@ A side note that I feel compelled to include: if you ever find someone gracious 
 
 Some collaborators half-joke that a certain flavor of dismissiveness correlates with academic credentials and with the kind of identity investment that comes from living too exclusively inside the academic bubble, which is its own irony, given that the work itself demands positioning across disciplines, industries, and professional cultures that have no patience for puritanical boundaries. <br/>
 
-I am planning to get my PhD the following year and will report back on the dickery coefficient. (2025 update: I got my PhD in late 2024 and I have since unlocked a kaleidoscopic and simultaneous distaste for pompous academic behavior, performative intellectualism, condescension toward non-academic knowledge, and the reflexive glorification of blue-collar work. Congratulate me, I am not automatically in anyone's good graces, which I consider a predictable outcome.) <br/>
+I am planning to get my PhD the following year and will report back on the dickery coefficient. (2025 update: I got my PhD in late 2024 and I have since unlocked a kaleidoscopic and simultaneous distaste for pompous academic behavior, performative intellectualism, condescension toward academic AND non-academic knowledge, and the reflexive glorification of blue-collar work. Congratulate me, I am not automatically in anyone's good graces, which I consider a predictable outcome.) <br/>
 
 </div>
 
