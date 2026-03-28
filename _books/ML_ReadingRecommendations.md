@@ -1,8 +1,14 @@
 ---
-title: "Machine Learning: 2024 Recommendation Reading List"
-excerpt: "A curated reading list to go from strangers to good acquaintances with Machine Learning."
-collection: books
-date: 2025-02-01
+layout: archive
+permalink: /books/
+title: "Books"
+author_profile: true
 ---
 
-Your markdown content here...
+{% raw %}{% assign books = site.books | sort: 'date' | reverse %}
+
+{% for book in books %}
+  <h2><a href="{{ book.url }}">{{ book.title }}</a></h2>
+  <p>{{ book.excerpt }}</p>
+  <hr/>
+{% endfor %}{% endraw %}
