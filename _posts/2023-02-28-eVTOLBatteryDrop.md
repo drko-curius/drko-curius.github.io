@@ -35,7 +35,7 @@ The test was part of an ongoing research program on the Integrated Crashworthine
 
 "By the way, do you know where we can potentially recycle a 750 lbs battery?"<br/>
 
-I did not, off the top of my head. Being intelligent across different fronts does not, as far as I am aware, come with supplier network psychic powers — a conviction my chief scientist and main collaborator seemed to hold with inexplicable confidence. <br/>
+I did not, off the top of my head. Being intelligent across different fronts does not, as far as I am aware, come with supplier network psychic powers, a conviction my chief scientist and main collaborator seemed to hold with inexplicable confidence. <br/>
 
 What made the timing of that question particularly memorable was what had just preceded it. In the same conversation, my chief scientist had casually shattered my worldview by introducing me to ChatGPT and demonstrating its capabilities live, including making it generate in under two minutes the Python numerical homogenization code I had spent eight months of my Master's degree building. That being said, one worldview collapses so another can rise, and I had already been preparing for the AI wave by taking a neural network course taught by my new advisor, and investigating machine learning applications within my PhD research, so the blow landed on reasonably prepared ground. <br/>
 
