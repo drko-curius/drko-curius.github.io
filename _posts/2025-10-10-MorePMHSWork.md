@@ -51,7 +51,7 @@ In the end, I got through it, delivered feedback-incorporated updates, and produ
 
 - After hours, I brought Sonny to my desk, my energetic and mischievous beagle, who imposed breaks, demanded walks and sprints and attention, and provided what was arguably the most effective emotional reset of the entire process, carrying me through to the stage where I was working on full-body scans and examining the intricate details of the skeleton before and after impact.<br/>
 
-I cannot say with certainty that I would approach a similar assignment with the same enthusiasm, but I know I would get through it. I also came away with a more honest sense of how far naive excitement and scholarly motivation can carry me before the full reality of a project catches up. What I am most grateful for is that I surfaced the difficulty early, had professional support alongside me, and found a way through that was genuinely mine.<br/>
+I cannot say with certainty that I would approach a similar assignment with the same enthusiasm, but I know I would get through it. I also came away with a more honest sense of how far naive excitement and scholarly motivation toward a totally novel field can carry me before the full reality of a project catches up. What I am most grateful for is that I surfaced the difficulty early, had professional support alongside me, and found a way through that was genuinely mine.<br/>
 
 </div>
 
