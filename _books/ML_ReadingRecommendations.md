@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /books/
-title: "Machine Learning Basics: 2024 Reading Recommendation"
+title: "Machine Learning Basics: 2024 Reading Recommendations"
 author_profile: true
 ---
 
