@@ -54,13 +54,15 @@ I am planning to get my PhD the following year and will report back on the dicke
 </div>
 
 
-## Learn more
 
+
+## Learn more
 
 - [Video of the Drop Test](https://vimeo.com/782771580)
 - [Media Release](https://www.wichita.edu/industry_and_defense/NIAR/MediaCenter/2022-12-22.php)
 - [Presentation](https://aam-cms.marqui.tech/uploads/aam-portal-cms/originals/b218a35c-e143-4416-bdad-7c1cf9bc30c3.pdf)
-- 2025 Update: Another battery drop test, this time conducted for NASA: [Part1](https://ntrs.nasa.gov/citations/20250002599) and [Part2](https://ntrs.nasa.gov/api/citations/20250002767/downloads/VFS_81%20Part%202.pdf)
+- 2025 Update: Another battery drop test, this time conducted for NASA: [Part 1](https://ntrs.nasa.gov/citations/20250002599) and [Part2](https://ntrs.nasa.gov/api/citations/20250002767/downloads/VFS_81%20Part%202.pdf)
+
 
 
 
