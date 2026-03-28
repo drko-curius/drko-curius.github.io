@@ -18,7 +18,7 @@ tags:
 
 **Domain**: Drop Test/ Fuselage/ ATDs/ PMHB    
 
-**Tools**: Drop Apparatus, Digital Image Correlation (DIC), DAQ, Altair Hypermesh, LS-DYNA  
+**Tools**: Drop Apparatus, Digital Image Correlation (DIC), DAQ, ATDs
 
 
 ## Scope
@@ -47,17 +47,16 @@ Through daily calibration routines and sustained conversations with Jonathan, a 
 
 ## Nota Bene: ATDs
 
-The <a href="https://www.humaneticsgroup.com/products/anthropomorphic-test-devices/frontal-impact/hybrid-iii-50th-male/hybrid-iii-50th-male">FAA Hybrid III 50th percentile male ATD</a>, which remains the regulatory standard for aviation emergency landing testing, is a derivative of a design <a href="https://www.tandfonline.com/doi/full/10.1080/23311916.2022.2105558">developed based on U.S. anthropometric data from 1976</a>, codified in federal regulation with drawing packages <a href="https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-572">dated as late as 1998</a>. The existing female ATD, a 5th percentile figure introduced in 1966, is not derived from female anatomical data but is instead a scaled-down version of the male model, carrying none of the physiologically distinct properties of female musculature, spinal alignment, bone density, or injury response. <a href="https://genderedinnovations.stanford.edu/case-studies/crash.html">A true 50th percentile female ATD does not exist.</a> The consequences are measurable: <a href="https://www.consumerreports.org/car-safety/crash-test-bias-how-male-focused-testing-puts-female-drivers-at-risk/">a 2019 University of Virginia study found that women are 73% more likely to be injured in a frontal crash than men</a>, controlling for age, height, BMI, crash severity, and vehicle model year, and <a href="https://www.legalexaminer.com/whitley/transportation/new-attention-on-gender-gaps-in-crash-safety-why-female-drivers-remain-at-higher-risk/">NHTSA data indicates women sustain roughly 80% more injuries to the neck, chest, and pelvis.</a> The <a href="https://www.nhtsa.gov/sites/nhtsa.gov/files/2024-04/NHTSA-Advanced-Anthropomorphic-Test-Devices-Development-Implementation-041624-v1-tag.pdf">THOR-50M</a>, NHTSA's next-generation male ATD with improved biofidelity and expanded instrumentation, has been under development since 2009 and as of 2024 remains in regulatory validation. An equivalent female THOR is not yet on a confirmed regulatory timeline. <br/>
+<div style="text-align: justify;">The <a href="https://www.humaneticsgroup.com/products/anthropomorphic-test-devices/frontal-impact/hybrid-iii-50th-male/hybrid-iii-50th-male">FAA Hybrid III 50th percentile male ATD</a>, which remains the regulatory standard for aviation emergency landing testing, is a derivative of a design <a href="https://www.tandfonline.com/doi/full/10.1080/23311916.2022.2105558">developed based on U.S. anthropometric data from 1976</a>, codified in federal regulation with drawing packages <a href="https://www.ecfr.gov/current/title-49/subtitle-B/chapter-V/part-572">dated as late as 1998</a>. The existing female ATD, a 5th percentile figure introduced in 1966, is not derived from female anatomical data but is instead a scaled-down version of the male model, carrying none of the physiologically distinct properties of female musculature, spinal alignment, bone density, or injury response. <a href="https://genderedinnovations.stanford.edu/case-studies/crash.html">A true 50th percentile female ATD does not exist.</a> The consequences are measurable: <a href="https://www.consumerreports.org/car-safety/crash-test-bias-how-male-focused-testing-puts-female-drivers-at-risk/">a 2019 University of Virginia study found that women are 73% more likely to be injured in a frontal crash than men</a>, controlling for age, height, BMI, crash severity, and vehicle model year, and <a href="https://www.legalexaminer.com/whitley/transportation/new-attention-on-gender-gaps-in-crash-safety-why-female-drivers-remain-at-higher-risk/">NHTSA data indicates women sustain roughly 80% more injuries to the neck, chest, and pelvis.</a> The <a href="https://www.nhtsa.gov/sites/nhtsa.gov/files/2024-04/NHTSA-Advanced-Anthropomorphic-Test-Devices-Development-Implementation-041624-v1-tag.pdf">THOR-50M</a>, NHTSA's next-generation male ATD with improved biofidelity and expanded instrumentation, has been under development since 2009 and as of 2024 remains in regulatory validation. An equivalent female THOR is not yet on a confirmed regulatory timeline. <br/>
 Please note that even the regulatory standard for the male ATD doesn't reflect the average data of the male population as of now, age or health wise.
-
 
 </div>   
 
 ## Learn more
 
 - [Video of the Drop Test](https://www.youtube.com/watch?v=CwaLsrH319g)
-- [Media Release on the Test'](https://www.linkedin.com/pulse/niar-full-scale-fuselage-drop-test-gerardo-olivares)
-- [Previous Drop Test](https://www.wichita.edu/industry_and_defense/NIAR/Documents/jams-presentations/22-Olivares-Certification-by-Analysis.pdf)
+- [Media Release](https://www.linkedin.com/pulse/niar-full-scale-fuselage-drop-test-gerardo-olivares)
+- [Previous drop test from Olivares' group in the old facilities](https://www.wichita.edu/industry_and_defense/NIAR/Documents/jams-presentations/22-Olivares-Certification-by-Analysis.pdf)
 
 
 
