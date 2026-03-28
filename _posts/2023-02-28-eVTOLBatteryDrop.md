@@ -1,5 +1,5 @@
 ---
-title: 'eVTOL Battery Drop Test'
+title: 'eVTOL Battery Drop Test + [2025 Update]'
 date: 2023-02-28
 permalink: /posts/2023/02/eVTOLBatteryDrop/
 tags:
