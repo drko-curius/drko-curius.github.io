@@ -24,7 +24,9 @@ Throughout my PhD, I was fully funded by AVET. I benefitted from the co-advising
 
 Beyond technical knowledge acquisition and application, I <a href="https://app.thestorygraph.com/tags/550a9829-ac8f-4fc9-9b6a-23b8992aac2a?redirect=true">read</a>. I <a href="https://www.hurrytothecapsule.com/">write</a>. I mentor. I go on <a href="https://beautiesandbeasts.org/">walks with dogs</a>. I <a href="https://www.rescue.org/united-states/wichita-ks">assemble furniture and teach English</a>. I play videogames. I acquire new languages. I meet new people. I discover local live music holes (Check out <a href="https://kirbysbeerstore.com/">Kirby's</a> if you are in Kansas).<br/> 
 
-And more often than not, I am at the cusp of being a challenged apprentice uncovering new territory, and a seasoned practitioner deepening trodden paths.<br/></div>
+And more often than not, I am at the cusp of being a challenged apprentice uncovering new territory, and a seasoned practitioner deepening trodden paths.<br/>
+
+</div>
 
 
 
