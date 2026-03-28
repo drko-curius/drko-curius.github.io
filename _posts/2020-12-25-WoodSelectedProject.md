@@ -1,7 +1,7 @@
 ---
 title: 'Wood Material Characterization for Dynamic Impact Simulation of Tu-154M Wing with Birch Tree'
-date: 2021-01-15
-permalink: /posts/2021/01/WoodSelectedProject/
+date: 2020-12-25
+permalink: /posts/2020/12/WoodSelectedProject/
 tags:
   - Testing
   - Simulation
