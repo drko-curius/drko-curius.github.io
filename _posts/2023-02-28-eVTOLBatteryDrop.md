@@ -54,8 +54,6 @@ I am planning to get my PhD the following year and will report back on the dicke
 </div>
 
 
-
-
 ## Learn more
 
 - [Video of the Drop Test](https://vimeo.com/782771580)
