@@ -1,3 +1,13 @@
+permalink: /
+title: "Welcome to the Atelier of one chimeric researcher"
+author_profile: true
+redirect_from:
+
+/about/
+/about.html
+
+--
+
 Greetings folks,
 I go by K.
 <div style="text-align: justify;" markdown="1">I am currently a postdoctoral researcher at <a href="https://www.wichita.edu/industry_and_defense/NIAR/Laboratories/avet/avet.php">the Jerry Moran Center for Advanced Virtual Engineering & Testing lab</a>, part of <a href="https://www.wichita.edu/industry_and_defense/NIAR/">the National Institute for Aviation Research -NIAR-</a> in Wichita, KS. My work focuses on aircraft crashworthiness, certification by analysis, simulation, and data-driven models. I also contribute theoretical foundations and numerical simulations to various projects, and collaborate with the aerospace engineering department to prepare students for the workforce.<br/>
