@@ -1,12 +1,9 @@
-permalink: /
+---
 title: "Welcome to the Atelier of one chimeric researcher"
-author_profile: true
-redirect_from:
+sitemap: false
+permalink: /about.html
+---
 
-/about/
-/about.html
-
---
 
 Greetings folks,
 I go by K.
