@@ -1,7 +1,10 @@
 ---
+permalink: /
 title: "Welcome to the Atelier of one chimeric researcher"
-sitemap: false
-permalink: /about.html
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 
