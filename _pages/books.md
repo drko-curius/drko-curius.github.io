@@ -1,12 +1,14 @@
 ---
-layout: collection
+layout: archive
 permalink: /books/
 collection: books
 entries_layout: grid
 title: "Books"
 ---
 
-{% for post in site.books %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  <p>{{ post.excerpt }}</p>
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+{% for post in site.books reversed %}
+  {% include archive-single.html type=entries_layout %}
 {% endfor %}
+</div>
