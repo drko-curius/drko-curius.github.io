@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /books/
+permalink: /books/philosophy-reread-2026/
 title: "Philosophy Reread List 2026"
 author_profile: true
 ---
@@ -29,7 +29,7 @@ The confrontation between Heidegger's Continental phenomenology and Wittgenstein
 | **Month** | **Philosopher of the Month (Anchor)** | **Main Reading (Introductory Work)** | **Related Thinkers and Themes (Branching Out)** |
 |---|---|---|---|
 | **January** | **Classical Foundation** | **Plato:** *The Last Days of Socrates* (comprising *Euthyphro*, *Apology*, *Crito*, *Phaedo*) | **Themes:** Socratic Method, Justice, Piety, the Soul. **Related Thinkers:** Aristotle (*Nicomachean Ethics*), the Pre-Socratics. |
-| **February** | **Augustine** | ***Confessions*** | **Themes:** Self, Will, Evil, Time, God, early Christian thought. **Related Thinkers:** Plotinus, Aquinas (Scholasticism). |
+| **February** | **Augustine** | ***Confessions*** | **Themes:** Self, Will, Evil, Time, God, early Christian thought. **Related Thinkers:** Plotinus, Aquinas. |
 | **March** | **Avicenna (Ibn Sina)** | A selection from ***The Book of Healing*** (Metaphysics section) or a scholarly introduction to Avicenna. | **Themes:** Arabic-Islamic Philosophy, Metaphysics, Existence and Essence, Logic, the Mind-Body Problem. **Related Thinkers:** Al-Farabi, Averroes (Ibn Rushd). |
 | **April** | **The Rationalists** | **Descartes:** ***Meditations on First Philosophy*** | **Themes:** Rationalism, Cartesian Doubt, Mind-Body Dualism, Substance. **Related Thinkers:** Leibniz, Hobbes (*Leviathan*). |
 | **May** | **Spinoza** (Favorite) | ***Ethics*** | **Themes:** Substance Monism, Determinism, God or Nature (*Deus sive Natura*), Affects, Freedom. **Related Thinkers:** Locke (Empiricism), Hume (Skepticism). |
