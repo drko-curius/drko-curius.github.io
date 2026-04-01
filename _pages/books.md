@@ -3,7 +3,7 @@ layout: archive
 permalink: /books/
 collection: books
 entries_layout: grid
-title: "Books"
+title: "Book Reviews"
 ---
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
