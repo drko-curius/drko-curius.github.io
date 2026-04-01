@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /books/
+permalink: /books/ML_ReadingRecommendations_2024/
 title: "Machine Learning Basics: 2024 Reading Recommendations"
 author_profile: true
 ---
