@@ -6,9 +6,8 @@ entries_layout: grid
 title: "Book Reviews"
 ---
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
+<ul>
 {% for post in site.books reversed %}
-  {% include archive-single.html type=entries_layout %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
-</div>
+</ul>
