@@ -3,7 +3,7 @@ layout: archive
 permalink: /books/
 collection: books
 entries_layout: grid
-title: "Book Reviews"
+title: "Reading"
 ---
 
 <ul>
