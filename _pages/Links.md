@@ -17,7 +17,13 @@ title: "Links"
 
 A running, informal collection of people whose work I admire: friends, fulbrighters, former collaborators, and strangers whose projects captured my attention and catalyze my creativity.
 
-## Research
+## Research - All About Flying
+
+**Kazuhiko Hachiya** — [Open Sky Project](https://www.petworks.co.jp/opensky/)
+Kazuhiko beat me to one of my passion projects: building the glider from [*Nausicaä of the Valley of the Wind*](https://www.simonandschuster.com/books/Nausicaa-of-the-Valley-of-the-Wind-Box-Set/Hayao-Miyazaki/Nausicaa-of-the-Valley-of-the-Wind-Box-Set/9781421550640), a staple of Japanese animation, home to one of my favorite heroines, and the source of a conversation about ecology, environmentalism, and technology that is still very much alive in my conscience. He generously documented [his process](https://www.youtube.com/@kazuhiko_hachiya) and shared his experience so the rest of us could learn from it and move faster. It remains one of the projects that keeps my fire for flying, and the creativity behind it, alive.
+
+
+## Research - Other
 
 **Joanna Behrman** — [joannabehrman.com](https://joannabehrman.com/)
 Intersectional researcher working across gender, science, and education, uncovering the earliest and often overlooked role of women in physics.
@@ -42,6 +48,6 @@ My favorite local band from Wichita, Kansas.
 **Effi's Invasion** [Official IG](https://www.instagram.com/effis.invasion/)
 A staple in alternative shows in Wichita, Kansas.
 
-
 **Joey and Missy, Suite Paws** — [suitepawsict.com](https://suitepawsict.com/)
 Friends from my years working with animal rescues, now running a pet daycare and boarding business in Wichita, Kansas, built on a deep love for animals and decades of hands-on experience with pets of every temperament.
+
