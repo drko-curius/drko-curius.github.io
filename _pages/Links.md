@@ -39,6 +39,9 @@ One of my favorite bands from Aachen, Germany.
 **VEHICLES** — [Bandcamp](https://vehiclestheband.bandcamp.com/)
 My favorite local band from Wichita, Kansas.
 
+**Effi's Invasion** [Official IG](https://www.instagram.com/effis.invasion/)
+A staple in alternative shows in Wichita, Kansas.
+
 
 **Joey and Missy, Suite Paws** — [suitepawsict.com](https://suitepawsict.com/)
 Friends from my years working with animal rescues, now running a pet daycare and boarding business in Wichita, Kansas, built on a deep love for animals and decades of hands-on experience with pets of every temperament.
