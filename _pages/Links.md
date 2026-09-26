@@ -25,14 +25,14 @@ Kazuhiko beat me to one of my passion projects: building the glider from [*Nausi
 **Sophie Pegrum** — [Skyferry Studios](https://www.skyferrystudios.com/)
 Interdisciplinary storyteller, filmmaker, and visual artist. Her [National Geographic field notes](https://fieldnotes.nationalgeographic.org/expedition/cosmosdreams) follow the women of the Kyrgyz Space Program and a young nomadic girl at Lake Son-Kol, exploring the "dream gap," the point where a girl's imagination meets the limits placed on it.
 
-**GRIFFIN Project** — [EPFL Laboratory of Intelligent Systems](https://lis.epfl.ch/)
+**GRIFFIN Project** — [EPFL Laboratory of Intelligent Systems](https://grvc.us.es/tag/griffin/)
 An ERC Advanced Grant project under Horizon Europe, building large bird-scale flapping-wing robots capable of perching the way real birds do, one of the harder open problems in flight that most drones sidestep entirely.
 
-**I-BIRDS** — [CORDIS project page](https://cordis.europa.eu/project/id/101247700)
+**I-BIRDS** — [CORDIS project](https://cordis.europa.eu/project/id/101247700)
 An ongoing ERC-funded Horizon Europe project developing quiet, bio-inspired flapping-wing drones to map air quality and noise pollution in cities, using the same flight principle as the Hachiya glider toward an environmental end.
 
-**Snowbird, AeroVelo** — [University of Toronto Institute for Aerospace Studies](https://www.utias.utoronto.ca/)
-Built by graduate students Todd Reichert and Cameron Robertson, the Snowbird achieved the first sustained flight of a human-powered ornithopter in 2010, closing a loop that runs from Leonardo da Vinci's 1485 sketches back to the myth of Daedalus.
+**Snowbird, AeroVelo** — [Snowbird](https://www.aerovelo.com/ornithopter-summary))
+The Snowbird achieved the first sustained flight of a human-powered ornithopter in 2010, similar Leonardo da Vinci's 1485 sketches back to the myth of Daedalus.
 
 
 ## Research - Other
