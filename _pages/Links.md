@@ -28,9 +28,6 @@ Interdisciplinary storyteller, filmmaker, and visual artist. Her [National Geogr
 **GRIFFIN Project** — [EPFL Laboratory of Intelligent Systems](https://grvc.us.es/tag/griffin/)
 An ERC Advanced Grant project under Horizon Europe, building large bird-scale flapping-wing robots capable of perching the way real birds do, one of the harder open problems in flight that most drones sidestep entirely.
 
-**I-BIRDS** — [CORDIS project](https://cordis.europa.eu/project/id/101247700)
-An ongoing ERC-funded Horizon Europe project developing quiet, bio-inspired flapping-wing drones to map air quality and noise pollution in cities, using the same flight principle as the Hachiya glider toward an environmental end.
-
 **Snowbird, AeroVelo** — [Snowbird](https://www.aerovelo.com/ornithopter-summary))
 The Snowbird achieved the first sustained flight of a human-powered ornithopter in 2010, similar Leonardo da Vinci's 1485 sketches back to the myth of Daedalus.
 
