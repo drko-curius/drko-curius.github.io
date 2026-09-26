@@ -33,8 +33,12 @@ Interdisciplinary storyteller, filmmaker, and visual artist. Her [National Geogr
 **Nandita Dhindsa** — [Behance](https://www.behance.net/nandita)
 A close friendship from my time in Bangalore, where I had an intimate view into her artistic process. A collaborator on visual work.
 
-**VEHICLES** — [Bandcamp](https://vehiclestheband.bandcamp.com/album/belief-in-habits)
+**ANIMAL MOTHER** — [Website](http://animal-mother.de/)
+One of my favorite bands from Aachen, Germany.
+
+**VEHICLES** — [Bandcamp](https://vehiclestheband.bandcamp.com/)
 My favorite local band from Wichita, Kansas.
+
 
 **Joey and Missy, Suite Paws** — [suitepawsict.com](https://suitepawsict.com/)
 Friends from my years working with animal rescues, now running a pet daycare and boarding business in Wichita, Kansas, built on a deep love for animals and decades of hands-on experience with pets of every temperament.
