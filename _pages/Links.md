@@ -11,3 +11,5 @@ title: "Links"
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
+
+Curated links to projects I support, follow, love, from folks I respect and whose endeavors I support
