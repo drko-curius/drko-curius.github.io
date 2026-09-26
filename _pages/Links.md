@@ -22,6 +22,9 @@ A running, informal collection of people whose work I admire: friends, fulbright
 **Kazuhiko Hachiya** — [Open Sky Project](https://www.petworks.co.jp/opensky/)
 Kazuhiko beat me to one of my passion projects: building the glider from [*Nausicaä of the Valley of the Wind*](https://www.simonandschuster.com/books/Nausicaa-of-the-Valley-of-the-Wind-Box-Set/Hayao-Miyazaki/Nausicaa-of-the-Valley-of-the-Wind-Box-Set/9781421550640), a staple of Japanese animation, home to one of my favorite heroines, and the source of a conversation about ecology, environmentalism, and technology that is still very much alive in my conscience. He generously documented [his process](https://www.youtube.com/@kazuhiko_hachiya) and shared his experience so the rest of us could learn from it and move faster. It remains one of the projects that keeps my fire for flying, and the creativity behind it, alive.
 
+**Sophie Pegrum** — [Skyferry Studios](https://www.skyferrystudios.com/)
+Interdisciplinary storyteller, filmmaker, and visual artist. Her [National Geographic field notes](https://fieldnotes.nationalgeographic.org/expedition/cosmosdreams) follow the women of the Kyrgyz Space Program and a young nomadic girl at Lake Son-Kol, exploring the "dream gap," the point where a girl's imagination meets the limits placed on it.
+
 
 ## Research - Other
 
@@ -31,8 +34,6 @@ Intersectional researcher working across gender, science, and education, uncover
 **Abel Corver** — [abelcorver.com](https://abelcorver.com/)
 Intersectional researcher working across neuroscience, entomology, and computational mechanics, studying the neuroscience behind spider behavior.
 
-**Sophie Pegrum** — [Skyferry Studios](https://www.skyferrystudios.com/)
-Interdisciplinary storyteller, filmmaker, and visual artist. Her [National Geographic field notes](https://fieldnotes.nationalgeographic.org/expedition/cosmosdreams) follow the women of the Kyrgyz Space Program and a young nomadic girl at Lake Son-Kol, exploring the "dream gap," the point where a girl's imagination meets the limits placed on it.
 
 ## Ventures
 
